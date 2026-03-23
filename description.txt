@@ -1,0 +1,9 @@
+Application Title:
+Student Grade Tracker
+
+Application Description:
+The Student Grade Tracker is a menu driven JavaScript application that allows users 
+to manage student grades. Users can add students and their grades, view all students, 
+delete a student, and calculate the average grade. The purpose of this application is to demonstrate 
+fundamental JavaScript concepts such as arrays, loops, conditional statements, functions, and modules. 
+The program runs in the browser using prompt() and alert() for user interaction and does not use any DOM manipulation.
